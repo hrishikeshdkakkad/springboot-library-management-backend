@@ -1,4 +1,4 @@
-package com.app.library;
+package com.app.library.books;
 
 import javax.persistence.*;
 
